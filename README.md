@@ -18,7 +18,7 @@ Dataset
 
 
 
-[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) (UCI) — 800K+ real e-commerce transactions spanning Dec 2009–Dec 2011, across 5,878 unique customers. Not included in this repo due to size; download it and place it in `data/` to reproduce.
+[Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii) (UCI) - 800K+ real e-commerce transactions spanning Dec 2009–Dec 2011, across 5,878 unique customers. Not included in this repo due to size; download it and place it in `data/` to reproduce.
 
 
 
