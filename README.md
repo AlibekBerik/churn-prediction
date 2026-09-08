@@ -5,13 +5,15 @@
 Predicts which e-commerce customers are likely to churn using SQL-derived RFM (Recency, Frequency, Monetary) features and an XGBoost classifier, with a comparison of baseline vs. SMOTE-balanced training to address class imbalance.
 
 
+Demo
+
+![Demo](demo.gif)
 
 Problem
 
 
 
 Businesses lose revenue when customers quietly stop purchasing. This project identifies at-risk customers from historical transaction data so retention efforts can be targeted before they leave.
-
 
 
 Dataset
