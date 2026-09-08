@@ -4,4 +4,3 @@ __pycache__/
 .streamlit/
 data/*.xlsx
 data/*.db
-data/*.csv
