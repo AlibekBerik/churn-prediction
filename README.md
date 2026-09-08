@@ -96,5 +96,5 @@ Python, SQLite/SQL, Pandas, XGBoost, imbalanced-learn (SMOTE), Streamlit
 
 
 
-\[Add your Streamlit Cloud link here once deployed]
+https://churn-prediction-wff7qjwtq8kkugtoplbfsh.streamlit.app/
 
